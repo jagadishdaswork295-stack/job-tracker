@@ -69,7 +69,7 @@ job-tracker/
 
 1. Clone the repo
 ```bash
-git clone https://github.com/jagadishdaswork295-stack/job-tracker.git
+git clone https://github.com/jagadishdaswork295-stack/TrackAI.git
 cd job-tracker/jobtracker
 ```
 
